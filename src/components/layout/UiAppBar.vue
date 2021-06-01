@@ -21,7 +21,7 @@
       <v-spacer></v-spacer>
 
       <v-btn
-        href="https://github.com/billpchie"
+        href="https://github.com/bcp-pcs"
         target="_blank"
         text
       >
