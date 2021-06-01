@@ -1,24 +1,13 @@
-# frontend
+# Case Study Frontend
 
-## Project setup
-```
-npm install
-```
+## Table of Contents
+- [Case Study Frontend](#case-study-frontend)
+  - [Table of Contents](#table-of-contents)
+  - [To run the project](#to-run-the-project)
+  - [Case Study Note](#case-study-note)
 
-### Compiles and hot-reloads for development
-```
+## To run the project
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Case Study Note
+Tab `Default` implemented UI to run the APIs requested in the case study. Tab `Jwt` planned to implement the UI for the APIs and flow with Jwt in mind, however the UI is not implemented in this commit yet.
