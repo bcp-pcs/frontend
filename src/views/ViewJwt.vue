@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>This is an Jwt page</h1>
+    <h1>Jwt Version</h1>
+    Under construction =(
   </div>
 </template>
 
